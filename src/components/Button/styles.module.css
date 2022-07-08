@@ -1,0 +1,42 @@
+.button {
+  background: #8a2be3;
+  border: none;
+  padding: 15px 40px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  width: 30%;
+  border-radius: 5px;
+  color: #f8f8f8;
+  cursor: pointer;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .button {
+    background: #8a2be3;
+    border: none;
+    padding: 15px 40px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    width: 80%;
+    border-radius: 5px;
+    color: #f8f8f8;
+    cursor: pointer;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .button {
+    background: #8a2be3;
+    border: none;
+    padding: 15px 40px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    width: 80%;
+    border-radius: 5px;
+    color: #f8f8f8;
+    cursor: pointer;
+    text-align: center;
+  }
+}
