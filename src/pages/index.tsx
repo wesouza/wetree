@@ -13,7 +13,7 @@ export default function Home() {
       <Button href="https://github.com/wesouza">Github</Button>
 
       <div className={styles.info}>
-        <span>Feito ❤️ por Wellington Souza</span>
+        <span>Feito com ❤️ por Wellington Souza</span>
       </div>
     </div>
   );
